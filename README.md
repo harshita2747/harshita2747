@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi I'am harshita bhosle 
-Currently working at Legitquest
-Building sleek web app 
+Hi I'am harshita bhosle ||
+Currently working at Legitquest ||
+Building sleek web app ||
 Looking forward to connect 
 
 
