@@ -3,6 +3,7 @@ Hi I'am harshita bhosle
 
 Full Stack Developer passionate about building responsive web applications, exploring modern technologies, and continuously improving through hands-on projects.
 
+Building Inkovate Studio ||
 Currently working at Legitquest ||
 Building sleek web app ||
 Looking forward to connect 
