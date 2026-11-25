@@ -1,12 +1,21 @@
 # 💫 About Me:
-Hi I'am harshita bhosle 
+Hi, I'm Harshita Bhosle 👋
 
-Full Stack Developer passionate about building responsive web applications, exploring modern technologies, and continuously improving through hands-on projects.
+Software Engineer | Full Stack Developer
 
-Building Inkovate Studio ||
-Currently working at Legitquest ||
-Building sleek web app ||
-Looking forward to connect 
+Building responsive, scalable web applications and turning ideas into practical digital products. Passionate about modern technologies, clean code, and continuous learning.
+
+🚀 Building Inkovate Studio
+
+💻 Currently working at LegitQuest
+
+⚡ Exploring Cloud Computing, Docker, CI/CD, AI & DevOps
+
+💻 Working with React, Node.js, JavaScript, PHP & MongoDB
+
+🤝 Open to connecting with developers, recruiters, and new opportunities.
+
+Let's connect and build something meaningful!
 
 
 ## 🌐 Socials:
